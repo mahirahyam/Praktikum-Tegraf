@@ -1,7 +1,5 @@
 ## Penjelasan Kode
 
----
-
 ### **1. Pendefinisian Fungsi `find_lis(arr)`**
 
 Section ini berisi logika utama *Dynamic Programming* untuk mencari panjang LIS dan merekonstruksi urutan elemennya.
