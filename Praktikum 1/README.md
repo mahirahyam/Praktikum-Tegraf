@@ -164,3 +164,7 @@ if __name__ == "__main__":
 
 ---
 ## Dokumentasi
+
+![foto1](https://github.com/mahirahyam/Praktikum-Tegraf/blob/main/Praktikum%201/foto1)
+
+![foto2](https://github.com/mahirahyam/Praktikum-Tegraf/blob/main/Praktikum%201/foto2)
